@@ -1,0 +1,20 @@
+{
+  "theme": {
+    "primaryColor": "#4185f4",
+    "accentColor": "#a3ff00",
+    "welcomeBg": "https://mahesh2710.github.io/ARData/target/blinkit_poster.jpg",
+    "sheetBg": "https://mahesh2710.github.io/ARData/target/welcome.jpg"
+  },
+  "content": {
+    "welcomeTitle": "Ready to Play?",
+    "welcomeSub": "Unlock the next level experience",
+    "scannerImg": "https://mahesh2710.github.io/ARData/target/blinkit_scanner.png",
+    "buyNowUrl": "https://blinkit.com/s/?q=holi"
+  },
+  "arData": {
+    "mindFile": "https://mahesh2710.github.io/ARData/target/blinkit_target.mind",
+    "videoUrl": "https://mahesh2710.github.io/ARData/video/Blinkit.mp4",
+    "videoWidth": 1.2,
+    "videoHeight": 2.1
+  }
+}
